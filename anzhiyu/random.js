@@ -1,0 +1,1 @@
+var posts=["2023/11/05/从0到1搭建一个个人博客/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
